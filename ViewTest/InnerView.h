@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface InnerView : UIView
-@property (nonatomic, weak) IBOutlet UIView *view;
+@property IBOutlet UIView *view;
 @end
